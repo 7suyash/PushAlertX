@@ -1,6 +1,7 @@
-heyy , here i will be sharing my notifications system in java 
+heyy ,
+here i will be sharing my notifications system in java 
 feel free to contribute and fork !    :)
-Bhai Bina Sharm clone mat karna credit dena samje 🥹🥹♥️ 
+Bas Bhai Bina Sharm clone mat karna credit dena samje 🥹🥹♥️ 
 To be in touch gmail: suyashDhulap@gmail.com
 
 Discord: https://discordapp.com/users/1241347382931886236
