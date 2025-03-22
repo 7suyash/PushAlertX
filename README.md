@@ -7,7 +7,6 @@ To be in touch gmail: suyashDhulap@gmail.com
 
 
 
-
 Discord link 🔗: https://discordapp.com/users/1241347382931886236
 
 
